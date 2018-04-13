@@ -33,56 +33,56 @@ After receiving the walk data, the loss is calculated by comparing with the mode
 
 ---
 References
+
 [Tutorial]
-- docker for windows download (+ other OS)
+docker for windows download (+ other OS)
 - http://pyrasis.com/Docker/Docker-HOWTO
 
 
-- running jupyter server
+running jupyter server
 - https://plot.ly/python/ipython-notebook-tutorial/
 
 
-- RNN tutorial
+RNN tutorial
 - http://aikorea.org/blog/rnn-tutorial-1/
 
 
-- install NLTK
+install NLTK
 - http://www.nltk.org/install.html
 
 
-- install theano
+install theano
 - http://deeplearning.net/software/theano/install.html
 
 
 [ Lecture ]
-- "모두를 위한 머신러닝/딥러닝 강의" | hunkim (kim sung hun)
+"모두를 위한 머신러닝/딥러닝 강의" | hunkim (kim sung hun)
 - http://hunkim.github.io/ml/
 
 
 
-- Stanford Computer Engineering Artificial Intelligence Instruction 'CS231n'
+Stanford Computer Engineering Artificial Intelligence Instruction 'CS231n'
 - http://cs231n.stanford.edu/syllabus.html
 
 
 
-- RNN introduction |  Original : colah's blog
+RNN introduction |  Original : colah's blog
 - https://brunch.co.kr/@chris-song/9
 - http://colah.github.io/posts/2015-08-Understanding-LSTMs/
 
 
 [ Supplement ]
-- A site that beautifully visualizes the process of machine learning.
+A site that beautifully visualizes the process of machine learning.
 - http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
 
 
 
--  The utility of LSTM
+The utility of LSTM
 - http://karpathy.github.io/2015/05/21/rnn-effectiveness/
 
 
 
-- Speeding up with Theano & GPU
+Speeding up with Theano & GPU
 - http://www.wildml.com/2015/09/speeding-up-your-neural-network-with-theano-and-the-gpu/
-
 
 
