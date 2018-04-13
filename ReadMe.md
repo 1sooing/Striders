@@ -1,3 +1,4 @@
+---
 Striders
 ---
 Android application
@@ -33,7 +34,7 @@ After receiving the walk data, the loss is calculated by comparing with the mode
 
 ---
 References
-
+---
 [Tutorial]
 docker for windows download (+ other OS)
 - http://pyrasis.com/Docker/Docker-HOWTO
